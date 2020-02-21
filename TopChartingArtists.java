@@ -1,3 +1,5 @@
+//Esther Farkas
+//Assignment 1
 
 public class TopChartingArtists {
 			public Artists first;
